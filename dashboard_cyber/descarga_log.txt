@@ -1,0 +1,95 @@
+===== 03-10-2026 18:00:31,11 ===== 
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 05-10-2026  8:11:58,11 ===== 
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 05-10-2026 12:00:01,50 ===== 
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 05-10-2026 16:00:01,37 ===== 
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 05-10-2026 22:11:04,60 ===== 
+Aviso: falló la descarga (Error('Page.goto: net::ERR_NAME_NOT_RESOLVED at https://americas-logireport.fulfillment.maersk.com/jinfonet/welcome.jsp\nCall log:\n  - navigating to "https://americas-logireport.fulfillment.maersk.com/jinfonet/welcome.jsp", waiting until "load"\n')) — se usan los últimos archivos disponibles.
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 06-10-2026  8:30:59,20 ===== 
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Users\CLI230\OneDrive - Maersk Group\Escritorio\PumaCL\4.Archivos Importantes\DATA & DEVELOPMENT\Phyton\Puma\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 06-10-2026 12:00:02,34 ===== 
+^C===== 06/10/2026 15:05:39.29 ===== 
+Aviso: falló la descarga (TimeoutError('Locator.click: Timeout 60000ms exceeded.\nCall log:\n  - waiting for locator("#client iframe").content_frame.get_by_role("link", name="excelExcel")\n')) — se usan los últimos archivos disponibles.
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Python\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 06/10/2026 15:09:32.10 ===== 
+Descargado: C:\Python\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Python\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Python\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 06/10/2026 15:28:12.40 ===== 
+Descargado: C:\Python\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Python\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Python\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 06/10/2026 17:55:21.99 ===== 
+Descargado: C:\Python\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Python\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Python\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 06/10/2026 17:58:22.20 ===== 
+Descargado: C:\Python\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Python\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Python\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
+===== 07/10/2026  8:26:50.77 ===== 
+Descargado: C:\Python\dashboard_cyber\BaseWaveDetail.xlsx
+Descargado: C:\Python\dashboard_cyber\Fillrate.xlsx
+Aviso: BaseWaveDetail sin columna Ecom_Single_Flag — Single/Multi se infiere por unidades.
+Exportado: C:\Python\dashboard_cyber\cyber_powerbi.xlsx
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.html
+Exportado: C:\Python\dashboard_cyber\cyber_dashboard.zip
+codigo de salida: 0 
